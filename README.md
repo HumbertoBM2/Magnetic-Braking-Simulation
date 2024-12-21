@@ -68,8 +68,18 @@ Make sure you have the following installed on your machine:
     ```bash
     python ./ComparingMagneticFieldInEachComponent.py
     ```
+    
 
     ```bash
     python ./AnimationOfTheGondolaFalling.py
     ```
 Each application will display an interactive menu guiding you through each step. Follow the instructions of each menu and enjoy.
+
+
+
+## Gallery 
+
+![Image](Gallery/heatmap.png)
+![Image](Gallery/comp.png)
+![Image](Gallery/graphs.png)
+![Image](Gallery/animation.png)
